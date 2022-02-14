@@ -3,7 +3,7 @@ Hello Everyone!
 Just try to work with me, and you'll see: I can do my work well and on time.
 
 Thanks for checking in. My name's Vinesh Maniya For India.
-I have 2+ years of experience in WordPress And Shopify E-commerce Web design and development and I have been doing a lot of WordPress and Shopify themes development.
+I have 3+ years of experience in WordPress And Shopify E-commerce Web design and development and I have been doing a lot of WordPress and Shopify themes development.
 
 ✅ CMS:
 - Wordpress
