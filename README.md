@@ -1,13 +1,18 @@
-Hello Everyone!
+Hi, My name is Vinesh Maniya. I am a professional WordPress and Shopify expert with 4+ years of experience. Have completed more than 110+ projects till now. Full-time freelancer for the last 2.5+ years. I am extremely detail-oriented and my work is precise and very high quality. I enjoy keeping clients updated on the progress of their projects, both large and small projects. I have 2+ years of experience in the A/B Testing field. I have worked with a few A/B testing.
 
-Just try to work with me, and you'll see: I can do my work well and on time.
+If you looking for an experienced Wordpress Developer to build your business website or want to redesign your website into a modern, responsive, and SEO-friendly look? Then you are at the right place.
 
-Thanks for checking in. My name's Vinesh Maniya For India.
-I have 3+ years of experience in WordPress And Shopify E-commerce Web design and development and I have been doing a lot of WordPress and Shopify themes development.
+Thank you for visiting my profile! I am a creative, reliable, hard-working Full Stack Developer. I have developed so many websites, and online e-commerce stores using WordPress + Woo-commerce, and Shopify and worked with many startups as well as established companies. I can write quality code, design websites, fix bugs, and build from scratch, whatever you need!
 
 ✅ CMS:
 - Wordpress
 - Shopify
+
+✅ A/B Testing:
+- Google Optimize 360
+- VWO
+- Optimizely
+- AB Tasty
 
 ✅ Front-end:
 - HTML/HTML5
@@ -20,23 +25,14 @@ I have 3+ years of experience in WordPress And Shopify E-commerce Web design and
 ✅ Back-end:
 - Php
 
-✅ Design:
-- Figma
-- Adobe XD
-- Adobe Illustrator
-- Adobe Photoshop
+When I make a site for you, you receive:
+- 30 days of FREE support and Free On-Going Advice.
+- FREE lessons on how to change and add things to your site.
+- A website you can easily edit and add pages with no knowledge of coding required.
 
-⌚ 𝗠𝗬 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗜𝗟𝗜𝗧𝗬
-I’m a part-time independent designer and developer available to discuss your project
-requirements as well as work on your project throughout the week. I will respond to your message within 30 min or less.
+I create and always try to deliver an effective, focused, and on-target product that fits my clients' needs and goals. I work on each project until the client is 100% satisfied.
 
-⚙️ 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗗𝗨𝗥𝗔𝗧𝗜𝗢𝗡
-Each design is unique and requires its own time-frame based on the scope and complexity of the requirements, however, I’m cognizant of your deadlines and will work to ensure that all work is completed in a timely manner based on the time-frame we will establish together.
+As a Full-time developer, I can be available for discussion about projects when you require them. I will do my best to deliver you the best quality code.
 
-📷 𝗠𝗬 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢
-My portfolio below showcases past and on-going work, I’ve worked on. Also, have experience of work for a leading IT Firm.
-
-I am an honest, friendly, and hardworking who is willing to be on top of this field. I provide high-end and up-to-date designs & developments using the latest tools and technology available.
-
-I want to implement my skills in interesting and really useful projects.
-You can check some of my latest Front-end work in my portfolio.
+Have any questions? Want to discuss your projects?
+Feel free to contact me and have a nice day! :)
