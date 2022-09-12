@@ -36,3 +36,5 @@ As a Full-time developer, I can be available for discussion about projects when 
 
 Have any questions? Want to discuss your projects?
 Feel free to contact me and have a nice day! :)
+
+Thank you
